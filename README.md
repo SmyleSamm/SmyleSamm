@@ -2,6 +2,7 @@
   <head>
     <h1>WELCOME</h1>
     <strong>Portfolio of an Aspiring Programmer and Hobby Coder</strong><br>
+    <img src="333580.jpg">
   </head>
   <body>
     <h2>ABOUT ME</h2>
