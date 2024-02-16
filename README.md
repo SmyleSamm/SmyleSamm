@@ -23,17 +23,6 @@
       - Spanish (beginner)<br>
       - Russian / Polish (currently learning)<br>
     </p>
-    <h2>MY JOURNEY</h2>
-    <p>
-      Since I was 11 years old I am fascinated with Programming.<br>
-      My journey began slowly though.<br>
-      Throughout my first 1 year of Programming, I approximately wrote 300 lines of code mostly consisting of small projects I did with my Dad and our Arduino.<br>
-      Being introduced to Python at the age of 13, after selecting Informatics as a course in my school, only furthermore fueled my excitement.<br>
-      After graduating from my secondary school education in 2022. I learned my <del>second</del> first programming language, <b>Java</b>, while studying for my Abitur.<br>
-      Java was the language that unleashed my excitement for coding. It is the very first language that was able to give me, what I was craving for all those years long.<br>
-      After 1.5 years Programming with Java, I was able to create some amazing projects. <em>Mostly small school projects with a few own projects not large in size, but still amazing!</em><br><br>
-      For the time being, this is all I can tell you about my journey. Nonetheless this is not the end of my journey, <em>it's only the beginning</em>! 
-    </p>
     <h2>What did I acomplish on thirdparty websites?</h2>
     <h3>LEETCODE</h3>
     <img src="https://leetcard.jacoblin.cool/Smyle_Samm?theme=dark&font=Noto%20Sans%20Osage">
