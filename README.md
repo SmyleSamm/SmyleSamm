@@ -11,17 +11,21 @@
       My name is Samm, also known as SmyleSamm. I am currently 17 years old!<br>
       I am currently learning for my Abitur, but in the meantime, I am programming a lot.<br>
       Here are the languages I am familiar with:<br><br>
-      <li>Java (main)<br></li>
-      - HTML<br>
-      - JavaScript<br>
-      - C# (learning)<br>
-      - Python (learning)<br><br>
+      <div id="bullet-list">
+        <li>Java (main)<br></li>
+        <li>HTML<br></li>
+        <li>JavaScript<br></li>
+        <li>C# (learning)<br></li>
+        <li>Python (learning)<br></li><br>
+      </div>
       Besides my love for programming languages, I love to learn other languages aswell.<br>
       Here are the languages I am familiar with:<br><br>
-      - German (mother tongue)<br>
-      - English <br>
-      - Spanish (beginner)<br>
-      - Russian / Polish (currently learning)<br>
+      <div id="bullet-list">
+        <li>German (mother tongue)<br></li>
+        <li>English <br></li>
+        <li>Spanish (beginner)<br></li>
+        <li>Russian / Polish (currently learning)<br></li><br>
+      </div>
     </p>
     <h2>What did I acomplish on thirdparty websites?</h2>
     <h3>LEETCODE</h3>
