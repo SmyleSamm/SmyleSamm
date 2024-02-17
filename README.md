@@ -11,7 +11,7 @@
       My name is Samm, also known as SmyleSamm. I am currently 17 years old!<br>
       I am currently learning for my Abitur, but in the meantime, I am programming a lot.<br>
       Here are the languages I am familiar with:<br><br>
-      - Java (main)<br>
+      <li>Java (main)<br></li>
       - HTML<br>
       - JavaScript<br>
       - C# (learning)<br>
