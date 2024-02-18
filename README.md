@@ -29,7 +29,10 @@
     </p>
     <h2>What did I acomplish on thirdparty websites?</h2>
     <h3>LEETCODE</h3>
-    <img src="https://leetcard.jacoblin.cool/Smyle_Samm?theme=dark&font=Noto%20Sans%20Osage">
+    <img src="https://leetcard.jacoblin.cool/Smyle_Samm?theme=dark&font=Noto%20Sans%20Osage"><br>
+    <h3>GREENFOOT</h3>
+    <p>I had planned to publish many games on the Greenfoot platform. However, due to conflicts between the functions I wanted to use and Greenfoot's limitations, I had to abandon most of my projects. Currently, I'm in the process of converting my projects and project ideas to other IDEs and publishing them on Git.</p>
+    <p>My <a href="https://www.greenfoot.org/users/66328">GREENFOOT</a> profile with two alpha versions of my projects.</p>
   </body>
   <footer>
     
