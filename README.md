@@ -8,7 +8,7 @@
     <h2>ABOUT ME</h2>
     <p>
       Hello everyone^^<br><br>
-      My name is Samm, also known as SmyleSamm. I am currently 17 years old!<br>
+      My name is Samm, also known as SmyleSamm. I am currently 18 years old!<br>
       I am currently learning for my Abitur, but in the meantime, I am programming a lot.<br>
       Here are the languages I am familiar with:<br><br>
       <div id="bullet-list">
