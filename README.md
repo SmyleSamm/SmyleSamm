@@ -1,7 +1,6 @@
 <div align="center">
   <head>
     <h1>WELCOME</h1>
-    <strong>Portfolio of an Aspiring Programmer and Hobby Coder</strong><br>
     <img src="https://wallpapers.com/images/high/anime-city-pictures-74w17qpiho3r8z01.webp">
   </head>
   <body>
@@ -9,7 +8,7 @@
     <p>
       Hello everyone^^<br><br>
       My name is Samm, also known as SmyleSamm. I am currently 18 years old!<br>
-      I am currently learning for my Abitur, but in the meantime, I am programming a lot.<br>
+      I love to programm a lot of things! Because I just started, I do not have much to show.<br>
       Here are the languages I am familiar with:<br><br>
       <div id="bullet-list">
         <li>Java (main)<br></li>
