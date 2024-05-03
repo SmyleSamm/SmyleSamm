@@ -11,7 +11,7 @@
       I love to programm a lot of things! Because I just started, I do not have much to show.<br>
       Here are the languages I use the most:<br>
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smylesamm&layout=compact">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmyleSamm&layout=compact&theme=dark">
       </div>
     <h2>What did I acomplish on thirdparty websites?</h2>
     <h3>LEETCODE</h3>
