@@ -18,6 +18,10 @@
     <img src="https://leetcard.jacoblin.cool/Smyle_Samm?theme=dark&font=Noto%20Sans%20Osage"><br>
     <h3>GREENFOOT</h3>
     <p>My <a href="https://www.greenfoot.org/users/66328">GREENFOOT</a> profile with two alpha versions of my projects.</p>
+    <h3>Itch.io</h3>
+    <a href="https://smylesamm.itch.io/immortal-collapse">
+      <img src="image2.png">
+    </a>
   </body>
   <footer>
     
